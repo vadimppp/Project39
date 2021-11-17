@@ -15,6 +15,7 @@ int main()
 	{
 		PRIVET KY KY KY 
 			POKA POKA
+			TERORIST TERORIST KOT
 		printf("I am %d thread from %d threads!\n",
 			omp_get_thread_num(),
 			omp_get_num_threads()
